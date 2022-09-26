@@ -7,3 +7,6 @@
 [submodule "Assignments/assignment-00"]
 	path = Assignments/assignment-00
 	url = git@github.com:Jacob-Sonne/assignment-00.git
+[submodule "Assignments/assignment-03"]
+	path = Assignments/assignment-03
+	url = git@github.com:Jacob-Sonne/assignment-03.git
