@@ -25,3 +25,14 @@ Models expressing what?
 - The solution domain (specification/implementation model)
 "A conceptual-level diagram does not define source code; nor should it. A specification-level diagram that describes the solution to a problem does not have to look anything like the conceptual-level diagram that describes that problem."
 - Robert C. Martin et al. "Agile Principles, Patterns, and Practices in C#"
+
+# C# lecture 5 Dependency Injection and Testing Entity Framework
+Det er svært at teste op mod en live database.
+Brug af in-memory database i stedet.
+Lever kun så længe en test metode lever.
+
+Repository Pattern:
+ CRUD på entities (domain objects)
+ et repo per entity
+
+Dependency Injection:
